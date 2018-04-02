@@ -1,14 +1,14 @@
 #include<stdio.h>
 
-int stuff(void)   //you don't need this in every file
+int stuff()
 {
-     printf("Hello");
-     return 1;
+     printf("Hello\n");
+     return 1;  //sends this to the other line of code
 }
 
 int main()
 {
-    stuff();
+    stuff("Hello");
     printf("Hello there\n");
 
 }
