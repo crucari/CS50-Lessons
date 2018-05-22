@@ -7,3 +7,14 @@ function one(x){
     one(2)(3);
 
  //results are x=4, y=5
+
+ __________
+
+ string.fromcharcode(87,85)
+
+ are[35, 85]; (?)
+
+ ________
+
+
+
